@@ -1,0 +1,240 @@
+Unique  IoT Medicine  Box with  Smart  Wrist 
+Band  
+ 
+Ms.R.Sasikala  
+AP/ CSE  
+KIT-Kalaignarkarunanidhi Institute of  
+Technology, Coimbatore, India -641402.  
+kitsasicse@gmail.com  
+ 
+ 
+Abstract - This IoT -based system includes a 
+smart medicine box and a  wearable wristband. Keywords - Smart Medicin e Box, Smart 
+Wristband, Medication Management, Elderly 
+Care, Multi -sensory Alerts, Caregiver 
+Monitoring, Patient Safety, Health Monitoring . Introduction : 
+In our quickly aging society, a major challenge 
+in healthcare is ensuring that elderly and 
+differentl y-abled individuals follow their 
+prescribed medication schedules. Medication 
+mismanagement, whether due to forgetfulness, 
+incorrect pill intake, or missed doses, is a 
+serious issue that can lead to severe health 
+problems and more hospital visits. While 
+technology has provided some solutions, 
+current IoT medicine boxes often act only as 
+reminders. This includes checking the medication 
+being taken, providing alerts for all users, and 
+establishing a real -time communication link 
+between the patient and their caregivers. The 
+problem is particu larly serious for patients who 
+cannot rely on traditional audio alerts, making 
+current solutions ineffective for many people. The lack of automated features, such as expiry 
+and refill tracking adds to this issue, placing the 
+responsibility for managing com plex 
+medication schedules on both the patient and 
+their family. To tackle these challenges, this paper presents 
+the "Unique IoT Medicine Box with Smart 
+Wristband." This innovative dual -system is 
+designed to provide timely, correct, and safe 
+medication man agement. Additionally, the system includes a smart 
+wristband that meets the needs of deaf, elderly, 
+and visually impaired users. The wristband 
+provides alerts through vibrations and flashing Madhu  Mithra  A Dhanushraagav  S Sandeep  Kumar  J 
+Department  of CSE Department  of CSE Department  of CSE 
+KIT-Kalaignarkarunanidhi  Institute  of KIT-Kalaignarkarunanidhi  Institute  of KIT-Kalaignarkarunanidhi  Institute  of 
+Technology,  Coimbatore,  India -641402. Technology,  Coimbatore,  India -641402.  
+madhumithraofflc@gmail.com  dhanushraagav80@gmail.com  sandeepkumarvk18@gmail.com  LEDs, ensuring that patients feel and see the 
+medication reminder, even wh en audio alerts 
+are not available. The whole system connects to a cloud -based 
+platform that tracks medication history, 
+monitors expiry d ates, and sends automatic 
+refill notifications. Ultimately, the Unique IoT Medicine Box with 
+Smart Wristband aims to change medication 
+management from a passive reminder into a 
+proactive, intelligent, and inclusive healthcare 
+solution. By combining smart locking 
+mechanisms, AI verification, real -time alerts 
+for caregivers, and a wearable component, this 
+system could greatly improve medication 
+adherence and safety for vulnerable patients. The expected benefits include fewer hospital 
+visits caused by medication errors, real -time 
+communication with doctors and family 
+members, and an overall improvement in 
+patient well -being and  independence. While they serve 
+a pur pose, they don’t offer reminders or any 
+sort of verification to ensure medications are 
+taken correctly, nor do they facilitate caregiver 
+oversight, which can be crucial for some 
+patients. Unfortunately, they still fall short in several 
+areas, missing out on advanced capabilities like 
+AI-driven pill verification an d multi -sensory 
+alerts that would benefit users with various 
+disabilities. It results in poor treatment 
+outcomes, more a voidable hospitalisations, and 
+increased financial strain on both patients and 
+the healthcare system. While traditional 
+pillboxes and simple reminder systems provide 
+some help, they have significant shortcomings. They cannot verify if the right medication has 
+been taken and do not support patients with 
+disabilities, like those who are deaf or visually 
+impaired. Additionally, these systems often 
+lack real -time monitoring and emergency alerts, 
+leaving caregivers and healthcare providers 
+unaware of critical mi stakes until it is too late. User Interface (UI)/User Experience (UX) 
+Design: Develop wireframes and mockups for 
+the mo bile app and cloud dashboard, focusing 
+on ease of use for elderly patients and 
+caregivers. Pill 
+Verification: Integrate a mini camera and a 
+small microcontroller, like an ESP -CAM, for 
+image capture. Wristband Development: Wearable 
+Components: Choose a small microcontroller, 
+such as the ESP32 -C3, for the wristband. Phase 3: Software Development and Embedded 
+Programming (C++):  
+Develop the code for the ESP32 to manage the 
+timed schedule, control the servo motors for 
+each compartment, and activate the alerts, 
+including the buzzer and LEDs. Mobile/Web Application Development: User 
+Dashboard: Design a straightforward and easy -
+to-use interface for caregivers to view real -time 
+adherence logs, set medicat ion schedules, and 
+manage user profiles. Alert Configuration: Allow users to 
+customize alert types, including audio, 
+vibration, and visual signals, and to set 
+emergency contacts. Phase 4: System Integration and Testing Unit 
+Testing: Test individual components, such as 
+sensors, motors, and communication modules, 
+to ensure they work correctly. Integration 
+Testing: Test the entire system to confirm 
+smooth communication between the med icine 
+box, wristband, and cloud platform. User 
+Acceptance Testing (UAT): Conduct testing 
+with a small group of target users, such as 
+elderly patients and caregivers, to collect 
+feedback and make necessary improvements to 
+the UI/UX . If a wrong pill is 
+detected, the system sends a fail -safe alert to the 
+patient and their care givers. Also, weight 
+sensors in each compartment serve two 
+purposes: they confirm that a pill has been 
+removed and provide a reliable record that the 
+dose was not only accessed but also taken. It works with the 
+medicine box, providing a multi -sensory alert system. In addition to standard auditory 
+reminders, the wristband vibrates for users with 
+hearing or visual impairments, ensuring they 
+never miss a dose, regardless of their abilities. Medication schedules, adherence logs, and 
+critical alerts  are stored and managed in the 
+cloud. This 
+allows caregivers, family members, and 
+healthcare providers to monitor a patient’s 
+medication history and receive instant 
+notifications. 1: Block Diagram of the IoT Smart Medicine Box System 
+with Hardware Components and Cloud Integration  
+ 
+Medicine Box:  This is the main hardware 
+device containing several locked 
+compartments, each for a specific medication 
+dose. AI QR Pill Verifica tion Camera:  Inside the 
+medicine box, a mini camera scans QR codes 
+on medicine packets for AI -based verification. This ensures the correct pill  
+is dispensed, adding safety against medication 
+errors. RGB LEDs and OLED Display:  Visual 
+indicators show status alerts to the user, like 
+medication time or errors. Smart Wristband:  Connected via Bluetooth 
+Low Energy (BLE) to the medicine box, the 
+wristband provides tactile vibration alerts and 
+LED signals. Mobile and Web Apps:  These interfaces give 
+caregivers real -time access to patient 
+medication adherence data, alert history, and 
+the chance to intervene if irregularities arise. In addition, a smart 
+wristband equipped with ESP32 BLE delivers 
+vibration and LED alerts directly to the patient, 
+ensuring they never miss a dose. Supporting 
+components like the PCB, wiring, and 
+connectors complete the setup, making it a 
+compact, smart, and user -friendly solution for 
+medication management. Software Components:  
+On the software side, the IoT Smart Medicine 
+Box relies on a cloud platform to secure ly store 
+medicine schedules, patient information, and 
+medication logs. Caregivers and family 
+members can access this data through a mobile 
+app, which provides real -time alerts and allows 
+them to monitor adherence from anywhere. The microcontroller firmware 
+coordinates all the sensors and actuators, 
+managing communication between the box, the 
+cloud, and the smart wristband. By seamlessly 
+integrating hardware and software, the system 
+offers a reliab le, easy -to-use solution for 
+effective medication management . Conclusions:  
+In conclusion, the unique IoT Smart Medicine 
+Box with Smart Wristband offers a practical, 
+reliable, and comprehensive solution to the 
+pressing issue of medication mismanagement, 
+particularly for elderly and differently -abled 
+patients. The system goes beyond traditional 
+reminders by combining secure, smart - locking 
+compartments with advanced AI -based pill 
+verification, ensuring that patients access and 
+consume the correct medication every time. The sm art 
+wristband delivers multi -sensory alerts, 
+including silent vibrations and visual LED cues, 
+catering specifically to users with hearing or 
+visual impairments. At the s ame time, the cloud -
+connected platform enables real -time remote 
+monitoring, giving caregivers and healthcare 
+providers instant insight into adherence 
+patterns. Automated notifications for refills, 
+missed doses, or emergencies further enhance 
+patient safety , helping to prevent adverse health 
+outcomes, reduce hospital visits, and lower 
+overall healthcare costs. By addressing the medical, 
+technological, and human aspects of medication 
+management, this project stands as a significant 
+step toward creating a smarter, safer, and more 
+inclu sive healthcare environment. The smart wristband offers multi -
+sensory alerts, including gentle vibrations and 
+bright LED signals, catering to users with 
+hearing or visual impairments. The cloud -connected platform further enhances 
+its value by enabling caregivers and healthcare 
+professionals to monitor medication adherence 
+in real time, receive instant alerts about missed 
+doses, and proactively manage refill schedules. By seamlessly integrating modern IoT 
+technologies with user -friendly, thoughtful 
+design, this project demonstrates how 
+innovation can create a safer, smarter, and more 
+inclusive healthcare system, improving quality 
+of life for vulnerable populations while 
+providing peace of mind to their families and 
+caregivers. Abdulmalek, S., et al., "IoT -Based 
+Healthcare -Monitoring System towards 
+Improved Medication Adherence," 
+Frontiers in Digital Health, 2022. Benedict, S., et  al., "IoT -Enabled 
+Remote Monitoring Techniques for 
+Healthcare Applications," Informatica, 
+2022. Hassain, M.M., et al., "Voice 
+Activated Medicine Reminder Box with 
+IoT Health Monitoring," IEEE
+ International Conference on 
+Emerging Technologies, 2025. Islam, T., et al., "Enhancing 
+Medication Adherence  with IoT 
+Technology," International Journal of 
+Electronics and Communications 
+Engineering, 2023. Patel, S., et al., "Smart Pill Box 
+Integrated with IoT and AI for Medication 
+Adherence," IEEE Access, 202 4. Zhang, Y., et al., "Wearable IoT 
+Devices for Remote Healthcare 
+Monitoring," Sensors, 2023. Kumar, R., et al., "AI Based 
+Medicine Verification  for
+ Smart Healthcare," Journal of 
+Biomedical Informatics, 2024. Lee, J., et al., "Multi -Sensory Alert 
+Systems in Healthcare Wearables," ACM 
+Transactions on Computing for 
+Healthcare, 2024. Smith, A., et al., "Cloud -
+Connected IoT Solutions for Elderly 
+Care," International Journal of 
+Healthcare Information Systems, 2023. Chen, L., et al., "Predictive 
+Analytics for Medication Adherence in 
+Elderly Using IoT," Journal of Medical 
+Systems, 2024

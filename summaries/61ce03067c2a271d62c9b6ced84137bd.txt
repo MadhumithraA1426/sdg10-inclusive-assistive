@@ -1,0 +1,576 @@
+3  WEEKLY  OVERVIEW  OF INTERNSHIP  ACTIVITIES  
+ 
+ 
+ 
+ 
+ DATE  DAY  NAMEOFTHETOPIC/MODULE 
+COMPLETED  
+ 
+1st 02-06-2025  Monday  Internet,  HTML, Basic HTML Tags, 
+List Elements,  Anchor  Elements,  Image  
+Elements  
+W 03-06-2025  Tuesday  File Paths,  HTML  Boilerplate,  GitHub  
+E 04-06-2025  Wednesday  HTML  Tables,  HTML  Forms  
+E 05-06-2026  Thursday  CSS,  CSS Selectors,  Font Properties  in 
+CSS 
+K 06-06-2026  Friday  Inspecting  CSS,  CSS Box Model,  The 
+Cascade  
+ 
+07-06-2026  Saturday  Presentation  
+ 
+ 
+ 
+ 
+ 
+ 
+ DATE  DAY  NAMEOFTHETOPIC/MODULE 
+COMPLETED  
+ 
+2nd 09-06-2026  Monday  Combining  CSS Selectors,  CSS Position  
+Property,  Z-Index  in CSS,  Project:  CSS 
+Flag, CSS Display Property  
+W 10-06-2026  Tuesday  CSS float,  Responsiveness,  Media  Query, 
+Web design agency project  
+E 11-06-2026  Wednesd 
+ay Display Flex, Flex direction, Display 
+grid, Grid placement,  Mondrian  project  
+E 12-06-2026  Thursday  Bootstrap  components  
+K 13-06-2026  Friday  Project  work  
+ 14-06-2026  Saturday  Presentation  4  WEEKLY  OVERVIEW  OF INTERNSHIP  ACTIVITIES  
+ 
+ 
+ 
+ 
+ DATE  DAY  NAMEOFTHETOPIC/MODULE 
+COMPLETED  
+ 
+3rd 16-06-2025  Monday  DOM  Basics  & Element  Selection  
+W 17-06-2025  Tuesday  Content  & Style  Manipulation  
+E 18-06-2025  Wednesday  Creating  & Removing  Elements  
+E 19-06-2026  Thursday  DOM  Events  
+K 20-06-2026  Friday  Form  Handling  & Input  Events  
+ 
+21-06-2026  Saturday  Presentation  
+ 
+ 
+ 
+ 
+ 
+ DATE  DAY  NAMEOFTHETOPIC/MODULE 
+COMPLETED  
+ 
+4th 23-06-2026  Monday  Basics:  let, const,  Arrow  Functions  
+W 24-06-2026  Tuesday  Destructuring,  Spread,  and Rest 
+E 25-06-2026  Wednesday  Arrays:  map,  filter,  forEach  
+E 26-06-2026  Thursday  reduce(),  find(),  some(),  every()  
+K 27-06-2026  Friday  JSON,  Local  Storage  & Intro  to API 
+ 28-06-2026  Saturday  Final  Presentation  5  Introduction  to Full Stack  Web  Development  
+ 
+Full Stack  Web  Development  refers  to the process  of building both  the 
+front -end and back -end of a web application. Technologies  Used:  
+ 
+ HTML  (HyperText  Markup  Language) : 
+Structures  the content  on web pages  (e.g.,  headings,  paragraphs, 
+images, links).  CSS (Cascading  Style  Sheets) : 
+Styles  the HTML  with fonts,  colors,  spacing,  layout,  and 
+responsiveness.  JavaScript : 
+Adds  interactivity  and dynamic  behavior  like dropdowns,  modals, 
+form validation, and live content updates.  Front -End Frameworks  (optional):  
+o React.js , Vue.js , Angular  – for building  fast, scalable  user 
+interfaces. Back -End Development  (Server -Side)  
+This is where  the logic,  database  operations,  and server  configurations  
+happen  behind  the scenes. Technologies  Used:  
+ 
+ Programming  Languages : 
+o JavaScript  (Node.js) , Python , Java , PHP , Ruby  – used to 
+write server -side logic.  Databases : 
+o SQL  (MySQL,  PostgreSQL)  or NoSQL  (MongoDB)  – store 
+user data, products, messages, etc.  APIs  (Application  Programming  Interfaces) : 
+o Allow  communication  between  the front  end and back  end or 
+third -party services. 6   Server  Tools : 
+o Express.js  (Node.js  framework),  Django  (Python),  Spring 
+Boot (Java). We started hands -on practice  with HTML  (HyperText  Markup  Language) , 
+the standard language used to create the structure of web pages. The session 
+focused on learning basic HTML tags like: 
+ <html>,  <head>,  <body>  – to define  the structure. We also explored:  7   List Elements : Created  ordered  (<ol>)  and unordered  lists (<ul>)  using 
+list items (<li>).  Image  Tags : Embedded  images  using  the <img>  tag and practiced 
+attributes like src, alt, width, and height. Day 2: File Paths,  HTML  Boilerplate  & GitHub  Introduction  
+The second  day focused  on understanding  the importance  of file organization 
+in web development and how to correctly reference files using file paths . I created  a 
+GitHub account, learned how to:  
+ Initialize  a repository  using  git init 
+ Commit  changes  using  git add and git commit  
+ Push  code  to GitHub  using  git push  origin  main  
+This session  highlighted  the importance  of version  control  in professional  web 
+development workflows.  Tables : Learned  how to create  structured  data tables  using  <table>,  
+<thead>,  <tbody>,  <tfoot>,  <tr>,  <th>,  and <td>.  Forms : Explored  form  elements  to gather  user input,  including:  
+o <input  type="text">,  <input  type="email">,  <input 
+type="password">  
+o <textarea>  for multi -line input  
+o <label>  to associate  text with input  fields  
+o <select>  with <option>  for dropdowns  
+o <button>  for form  submission  
+I also learned  form  attributes  such as action,  method,  name,  and placeholder. Day 4: Introduction  to CSS and Text  Styling  
+This day marked the beginning of CSS (Cascading Style Sheets) – the 
+language  used to style  HTML  documents. Topics covered:  
+ Selectors : Element,  class  (.className),  and ID (#idName)  selectors.  Font  Styling : Applied  properties  like font-family,  font-size, font-weight, 
+color, text -align, and line -height. Day 5: CSS Box Model,  Inspection  & Cascading  Rules  
+On Day 5,  I explored  the CSS Box Model , which is crucial  to understanding 
+layou t in web design. We also practiced  using  browser  DevTools  (like Chrome’s  Inspect  tool)  to: 
+ View  applied  styles. Concepts such as:  
+ Specificity  (ID > Class  > Element)  
+ Importance  (!important)  
+ Rule  Order  
+These  helped  me understand  style  conflicts  and how to resolve  them 
+effectively. WEEK  1 PRESENTATION:   
+Portfolio  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Fig 1.1 Portfolio  
+10   
+ 
+Fig 1.2 Portfolio  
+ 
+ 
+ 
+Fig 1.3 Portfolio  
+11  Day 6: Advanced  CSS – Positioning,  z-index  & Mini  Project  
+This day was focused  on advanced  layout  and positioning  techniques in CSS. I learned how to control the position of elements precisely using the position 
+property , which includes:  
+ static  – default  position  (no effect),  
+ relative  – relative  to its normal  position,  
+ absolute  – positioned  relative  to the nearest  positioned  ancestor,  
+ fixed  – fixed  to the viewport  (useful  for navbars  or sidebars),  
+ sticky  – behaves  like relative  until a scroll  threshold  is crossed. Additionally,  I learned  about:  
+ Combining  Selectors  (descendant,  child,  pseudo -classes),  
+ CSS Display  Property  (inline,  block,  inline -block,  none). Day 7: Responsive Web Design – Floats, Media Queries & Mini Project  
+On Day 7, we explored responsive  design  to make  websites  adjust  seamlessly 
+across different screen sizes.  Media  Queries : Introduced  responsive  breakpoints  with @media  rules 
+like: 12   
+ These  allow  styles  to adapt  to different  screen  sizes  (mobiles,  tablets, 
+desktops). Day 8: Flexbox,  Grid  Layout  & Mondrian  Project  
+Day 8 focused  on modern  layout  models  – Flexbox  and CSS Grid  – which 
+make responsive and complex layouts much easier. 13  Day 9: Bootstrap  Introduction  
+We were  introduced  to Bootstrap , a powerful  front -end framework  that helps 
+developers build responsive websites faster using pre -designed components.  Components  explored:  Buttons , Cards , Alerts , Navbars , Modals , 
+Forms , etc.  Utility  Classes:  p-3, m-2, text-center,  bg-light,  etc., to apply  instant 
+styling. Day 10: JavaScript  DOM  Basics  & Element  Selection  
+Day 10 marked  the start of JavaScript  with a focus  on the DOM  (Document 
+Object Model). Key learnings:  
+ Accessing  Elements: 
+o document.getElementById("id")  
+o document.getElementsByClassName("class")  
+o document.querySelector(".class")  
+o document.querySelectorAll("tag")  
+ Understood  how elements  are treated  as objects  in JavaScript  and how to 
+traverse them to build interactivity. Day 11: Content  & Style  Manipulation  with  JavaScript  
+On this day, we explored  how to dynamically  change  content  and styles  on a 
+webpage using JavaScript. Day 12: Creating  & Removing  Elements  Using  DOM  
+We learned  how to create  new HTML  elements  using  JavaScript , insert  them 
+into the DOM, and remove existing ones. Main  techniques:  
+15   Creating  Elements :
+ 
+ Inserting  Elements :
+Used  .appendChild(),  .insertBefore(),  .prepend()  to add elements  to 
+the DOM. Key learnings:  
+ addEventListener() :
+o Syntax:  element.addEventListener("eventType",  callbackFunction)  
+o Common  events:  click,  mouseover,  mouseout,  keydown,  submit. Main concepts:  
+ Capturing  form  data using:
+ 
+ Listening  to input  events  like:
+input,  change,  focus,  blur,  submit. 17  WEEK  2 and 3  PRESENTATION:  
+Infinity Academy –A tution academy website  
+ 
+ 
+Fig 3.1 Infinity Academy  
+ 
+ 
+ 
+ 
+ 
+ 
+Fig 3.2 -Navigation bar
+18   
+ 
+ 
+Fig 3.3.1  Achievements  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Fig 3.3.2  Location  
+19   
+ 
+Fig 3.3.3  Contact  
+ 
+ 
+ 
+ 
+ 
+ 
+Fig 3.4.1  Registration Form
+20   
+ 
+ 
+Day 15: JavaScript Fundamentals – let, const & Arrow Functions  
+This was a theory  + code -heavy  day, where  we explored ES6 (modern 
+JavaScript) features and concepts. o var – Function -scoped  (older  syntax,  now less preferred). We converted  multiple  regular  functions  into arrow  syntax  and implemented 
+them in DOM -based mini features like:  
+ Greet  users  dynamically,  
+ Calculate  and display  input -based  values  (e.g.,  squares,  discounts). Day 16: Destructuring,  Spread  & Rest  Operators  
+This day focused  on advanced  JavaScript  features  introduced  in ES6. Day 17: Arrays  – map(),  filter(),  forEach()  
+This day was all about  array  manipulation  methods  that are frequently  used in 
+modern JavaScript development. Mini  Tasks  
+ Displayed  filtered  data on a webpage  (e.g.,  show  only tasks  marked  
+“completed”). Day 18: reduce(),  find(),  some(),  every()  
+This session  introduced  powerful  higher -order  array  methods  for calculations 
+and conditions . reduce()  
+ Condenses  an array  into a single  value:  
+ 
+find()  
+ Returns  the first element  that matches  a condition:  
+ 
+some()  and every()  
+ some()  checks  if at least  one element  matches  the condition. Day 19: JSON,  Local  Storage  & Introduction  to API 
+Our final day focused  on making  our applications persistent  and data -driven . Local  Storage  
+ Store  key-value  pairs  in the browser  that persist  even  after page  reload:  
+ 
+Intro  to APIs  
+ Discussed  how applications  fetch  data  from  external  sources  (like 
+weather, news, etc.)  Used  fetch()  method  to request  data from  a sample  API: 
+ 
+Final  Activities  
+ Built  a form  that saved  entries  to local  storage. WEEK  4 PRESENTATION:  
+To – Do – List Using  HTML,  CSS and Java Script  
+ 
+ 
+Fig 4.1 To do list  
+ 
+ 
+Fig 4.2  Adding Ta sk
+25   
+ 
+ 
+ 
+ 
+Fig 4.6 Alert  Message  
+ 
+Conclusion  
+Over  24 days,  I journeyed  from  writing  basic  HTML  tags to building  dynamic, 
+responsive web apps with JavaScript and modern tools. 26  Appendices:  
+Source  code:  
+Week  4: 
+index.html:  
+   <!DOCTYPE html>  
+<html lang="en">  
+<head>  
+    <meta charset="UTF -8"> 
+    <meta name="viewport" content="width=device -width, initial -scale=1.0">  
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.7/dist/css/bootstrap.min.css" 
+rel="stylesheet">  
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap -icons@1.11.1/font/bootstrap -
+icons.css">  
+    <title>To -Do List</title>  
+    <link rel="stylesheet" href="style.css">  
+</head>  
+<body>  
+    <video id="video -background" autoplay muted loop>  
+        <source src="bgvdo.mp4" type="video/mp4">  
+        Your browser does not support the video tag. </video>  
+ 
+    <div class="overlay"></div>  
+     
+    <div class="container mt -5"> 
+        <div class="card shadow -lg"> 
+            <div class="card -header bg -primary text -white">  
+                <h1 class="h4 mb -0"><i class="bi bi -list-check"></i> My To -Do List</h1>  
+            </div>  
+            <div class="card -body">  
+                <div class="input -group mb -4"> 
+                    <input type="text"  id="todo -input" class="form -control" placeholder="Add a new 
+task...">  27                      <input type="datetime -local" id="datetime -input" class="form -control mb -2 mb -sm-
+0" placeholder="Pick date and time...">  
+                    <button id="add -btn" clas s="btn btn -success"><i class="bi bi -plus-lg"></i> Add 
+Task</button>  
+                </div>  
+                 
+                <ul id="todo -list" class="list -group mb -3"> 
+                </ul>  
+                 
+                <div id="stats" class="text -muted  text-center small">0 tasks completed</div>  
+            </div>  
+        </div>  
+    </div>  
+     
+    <script 
+src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.7/dist/js/bootstrap.bundle.min.js"></script>  
+    <script src="app.js"></script>  
+</body>  
+</html>  
+ 
+Style.css  
+ 
+body {  
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans -serif;  
+    margin: 0;  
+    padding: 0;  
+    color: #333;  
+    position: relative;  
+    min-height: 100vh;  
+    overflow -x: hidden;  
+} 
+ 
+#video -background {  
+    position: fixed;  
+    top: 0; 28      left: 0;  
+    width: 100%;  
+    height: 100%;  
+    object -fit: cover;  
+    z-index: -1; 
+} 
+ 
+.overlay {  
+    position: fixed;  
+    top: 0;  
+    left: 0;  
+    width: 100%;  
+    height: 100%;  
+    background -color: rgba(0, 0, 0, 0.5);  
+    z-index: -1; 
+} 
+ 
+.container {  
+    max-width: 600px;  
+    margin: 0 auto;  
+    padding: 20px;  
+} 
+ 
+.card {  
+    background -color: rgba(255, 255, 255, 0.95);  
+    border: none;  
+} 
+ 
+.card -header {  
+    border -radius: 0.375rem 0.375rem 0 0 !important;  
+    font-weight: bold;  
+    font-size: 1.2rem;  
+} 
+ 
+.list-group -item {  29      display: flex;  
+    flex-wrap: wrap;  
+    align -items: center;  
+    padding: 1rem 1.25rem;  
+    margin -bottom: 0.5rem;  
+    border -radius: 0.375rem !important;  
+    border -left: 4px solid #0d6efd;  
+} 
+ 
+.todo -text {  
+    flex-grow: 1;  
+    margin: 0 1rem;  
+    word -break: break -word;  
+} 
+ 
+.completed {  
+    text-decoration: line -through;  
+    color: #6c757d;  
+} 
+ 
+.form -check -input {  
+    cursor: pointer;  
+} 
+ 
+.btn-danger {  
+    padding: 0.375rem 0.75rem;  
+} 
+ 
+.empty -message {  
+    text-align: center;  
+    color: #6c757d;  
+    padding: 1.5rem !important;  
+    background -color: transparent !important;  
+    border: none !important;  
+} 30   
+#datetime -input {  
+    max-width: 100%;  
+    margin -top: 10px;  
+} 
+ 
+.task-time {  
+    font-size: 0.85rem;  
+    color: #6c757d;  
+    margin -left: 1rem;  
+    word -break: break -word;  
+} 
+ 
+.input -group {  
+    display: flex;  
+    align -items: center;  
+    gap: 10px;  
+    margin -bottom: 15px;  
+} 
+ 
+#todo -input {  
+    flex-grow: 1;  
+    padding: 0.5rem;  
+    border -radius: 0.375rem;  
+    border: 1px solid #ccc;  
+} 
+ 
+#add -btn {  
+    white -space: nowrap;  
+} 
+ 
+/* Responsive adjustments */  
+@media (max -width: 576px) {  
+    .container {  
+        padding -left: 15px;  31          padding -right: 15px;  
+    } 
+ 
+    .input -group {  
+        flex-direction: colu mn; 
+        align -items: stretch;  
+    } 
+ 
+    #todo -input,  
+    #datetime -input,  
+    #add -btn {  
+        width: 100%;  
+        margin -bottom: 10px;  
+    } 
+ 
+    .list-group -item {  
+        flex-direction: column;  
+        align -items: flex -start;  
+    } 
+ 
+    .task-time {  
+        margin -left: 0;  
+        margin -top: 5px;  
+    } 
+} 
+App.js:  
+const todoInput = document.getElementById('todo -input');  
+const datetimeInput = document.getElementById('datetime -input');  
+const addBtn = document.getElementById('add -btn');  
+const todoList = document.getElementById('todo -list');  
+const stats = document.getElementById('stats');  
+ 
+let tasks = JSON.parse(localStorage.getItem('tasks')) || [];  
+ 
+function renderTasks() {  32      todoList.innerHTML = '';  
+ 
+    if (tasks.length === 0) {  
+        const emptyMessage = document.createElement('li');  
+        emptyMessage.className = 'list -group -item empty -message';  
+        emptyMessage.textContent = 'No tasks yet. ';  
+        todoList.appendChild(emptyMessage);  
+        return;  
+    } 
+ 
+    tasks.forEach((task, index) => {  
+        const li = document.createElement('li');  
+        li.className = 'list -group -item d -flex align -items -center flex -wrap';  
+ 
+        const checkbox = document.createElement('input');  
+        checkbox.type = 'checkbox';  
+        checkbox.className = 'form -check -input me -2'; 
+        checkbox.checked = task.completed;  
+        checkbox.addEventListener('change', () => toggleComplete(index));  
+ 
+        const span = document.createElement('span');  
+        span.className = 'todo -text'; 
+        span.textContent = task.text;  
+        if (task.completed) {  
+            span.classList.add('completed');  
+        } 
+ 
+        const timeLabel = document.createElement('span');  
+        timeLabel.className = 'task -time';  
+        timeLabel.textCon tent = `(📅 ${task.datetime || 'No time'})`;  
+ 
+        const deleteBtn = document.createElement('button');  
+        deleteBtn.className = 'btn btn -danger btn -sm ms -auto';  
+        deleteBtn.innerHTML = '<i class="bi bi -trash"></i>';  
+        deleteBtn.addEventListener('click', () => deleteTask(index));  33   
+        li.appendChild(checkbox);  
+        li.appendChild(span);  
+        li.appendChild(timeLabel);  
+        li.appendChild(deleteBtn);  
+ 
+        todoList.appendChild(li);  
+    }); 
+ 
+    updateStats (); 
+} 
+ 
+function addTask() {  
+    const text = todoInput.value.trim();  
+    const datetime = datetimeInput.value;  
+ 
+    if (text === '') return;  
+ 
+    tasks.push({  
+        text: text,  
+        completed: false,  
+        datetime: datetime  
+    }); 
+ 
+    saveTasks( ); 
+    renderTasks();  
+    todoInput.value = '';  
+    datetimeInput.value = '';  
+    todoInput.focus();  
+} 
+ 
+function toggleComplete(index) {  
+    tasks[index].completed = !tasks[index].completed;  
+    saveTasks();  
+    renderTasks();  34  } 
+ 
+function deleteTask(index)  { 
+    if (confirm('Are you sure you want to delete this task?')) {  
+        tasks.splice(index, 1);  
+        saveTasks();  
+        renderTasks();  
+    } 
+} 
+ 
+function updateStats() {  
+    const completedCount = tasks.filter(task => task.completed).length;  
+    stats.textContent = `${completedCount} of ${tasks.length} tasks completed`;  
+} 
+ 
+function saveTasks() {  
+    localStorage.setItem('tasks', JSON.stringify(tasks));  
+} 
+ 
+addBtn.addEventListener('click', addTask);  
+todoInput.addEventListener('keypress', function(e) {  
+    if (e.key === 'Enter') {  
+        addTask();  
+    } 
+}); 
+ 
+renderTasks();  
+ 
+ 35

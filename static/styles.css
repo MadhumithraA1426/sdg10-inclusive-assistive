@@ -1,0 +1,142 @@
+/* ---------- Global ---------- */
+body {
+    font-family: 'Poppins', Arial, sans-serif;
+    background: linear-gradient(135deg, #f8d5ff, #d4e8ff, #ffe9d6);
+    background-size: 400% 400%;
+    animation: gradientShift 12s ease infinite;
+    margin: 0;
+    display: flex;
+    justify-content: center;
+    align-items: flex-start;
+    min-height: 100vh;
+    padding: 40px 0;
+}
+
+/* ---------- Card Container ---------- */
+.container {
+    background: rgba(255, 255, 255, 0.90);
+    backdrop-filter: blur(16px);
+    margin-top: 20px;
+    padding: 30px;
+    width: 620px;
+    max-width: 95vw;
+    border-radius: 20px;
+    box-shadow: 0 10px 30px rgba(0,0,0,0.15);
+    animation: fadeIn 0.5s ease;
+}
+
+/* ---------- Typography ---------- */
+h1, h2 {
+    color: #2a2a2a;
+    font-weight: 600;
+    text-align: center;
+}
+
+h1 {
+    font-size: 28px;
+    background: linear-gradient(45deg, #ff7ae0, #4d9aff);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+}
+
+h2 {
+    margin-top: 20px;
+    font-size: 20px;
+}
+
+/* ---------- File Input ---------- */
+input[type="file"] {
+    display: block;
+    background: #f0f7ff;
+    padding: 14px;
+    border-radius: 10px;
+    border: 2px dashed #4d9aff;
+    width: 100%;
+    cursor: pointer;
+    transition: 0.3s;
+    font-size: 15px;
+}
+
+input[type="file"]:hover {
+    background: #e3efff;
+    border-color: #ff7ae0;
+}
+
+/* ---------- Highlighted Buttons ---------- */
+button {
+    background: linear-gradient(135deg, #ff7ae0, #4d9aff);
+    border: none;
+    color: white;
+    padding: 14px 35px;
+    cursor: pointer;
+    border-radius: 50px;
+    font-size: 17px;
+    font-weight: 600;
+    display: block;
+    margin: 20px auto 0;
+    transition: 0.3s ease;
+    box-shadow: 0 6px 15px rgba(255, 120, 200, 0.3);
+}
+
+button:hover {
+    transform: translateY(-3px) scale(1.03);
+    box-shadow: 0 10px 20px rgba(77, 154, 255, 0.35);
+    background: linear-gradient(135deg, #ff5bd4, #2d83ff);
+}
+
+/* ---------- Styled Checkbox ---------- */
+input[type="checkbox"] {
+    width: 20px;
+    height: 20px;
+    accent-color: #ff7ae0; /* modern highlight color */
+    cursor: pointer;
+    border-radius: 5px;
+}
+
+/* ---------- List ---------- */
+ul {
+    margin-top: 25px;
+    padding-left: 20px;
+    max-height: 260px;
+    overflow-y: auto;
+}
+
+ul::-webkit-scrollbar {
+    width: 8px;
+}
+
+ul::-webkit-scrollbar-thumb {
+    background: linear-gradient(#ff7ae0, #4d9aff);
+    border-radius: 4px;
+}
+
+li {
+    background: #ffffff;
+    border-left: 6px solid #4d9aff;
+    padding: 12px 18px;
+    margin: 12px 0;
+    border-radius: 8px;
+    font-size: 15px;
+    box-shadow: 0 2px 6px rgba(0,0,0,0.1);
+    transition: 0.2s ease-in-out;
+    word-break: break-word;
+    white-space: pre-line;
+}
+
+li:hover {
+    transform: translateX(5px);
+    border-left-color: #ff7ae0;
+    box-shadow: 0 4px 12px rgba(0,0,0,0.15);
+}
+
+/* ---------- Animations ---------- */
+@keyframes fadeIn {
+    from { opacity: 0; transform: translateY(18px); }
+    to { opacity: 1; transform: translateY(0); }
+}
+
+@keyframes gradientShift {
+    0% { background-position: 0% 50%; }
+    50% { background-position: 100% 50%; }
+    100% { background-position: 0% 50%; }
+}

@@ -1,0 +1,6 @@
+Flask
+nltk
+pdfplumber
+gTTS
+werkzeug
+flask-session

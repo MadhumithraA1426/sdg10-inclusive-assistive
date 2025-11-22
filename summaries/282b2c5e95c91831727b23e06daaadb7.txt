@@ -1,0 +1,150 @@
+KALAIGNARKARUNANIDHI INSTITUTE OF TECHNOLOGY  
+                             (AN AUTONOMOUS INSTITUTION)  
+                                         Coimbatore – 641402  
+        Affiliated to Anna University, Chennai  
+    Accredited by NAAC with ‘A’ Grade | Accredited by NBA  
+ 
+ 
+Subject Code: B23CSI501  
+Course Name: IoT and Smart Technology Integration  
+ 
+Team Guide: Ms . Madhu Mithra A  711523BCS026  
+Dhanush Raagav S  711523BCS014  
+Sandeep Kumar J  711523BCS306  
+Unique IoT Medicine Box with Smart Wrist Band
+ 
+      
+   
+    Ms.R.Sasikala  ME 
+         AP/ CSE 
+KIT-Kalaignarkarunanidhi Institute of 
+Technology,  Coimbatore,  India -641402. 
+kitsasicse@gmail.com   
+ 
+ 
+ 
+    Madhu  Mithra A  
+ Department  of CSE 
+KIT-Kalaignarkarunanidhi Institute of 
+Technology,  Coimbatore,  India -641402. 
+madhumithraoffcl@gmail.com   
+  Dhanushraagav S  
+Department  of  CSE 
+KIT-Kalaignarkarunanidhi Institute of 
+Technology,  Coimbatore,  India -641402. 
+dhanushraagav80@gmail.com   
+Sandeep Kumar J      
+Department  of CSE 
+KIT-Kalaignarkarunanidhi Institute of 
+Technology,  Coimbatore,  India -641402. 
+sandeepkumarvk18@gmail.com
+ 
+Abstract - Medication mismanagement is a 
+serious problem for elderly patients, especially 
+those who are forgetful, deaf, or have 
+disabilities. The Unique IoT Medicine Box with Smart 
+Wristband is a healthcare solution that ensures 
+timely, correct, and safe medication. The system 
+features smart locking compartments that only 
+open the correct slot, AI -based pill  verification, 
+expiry and refill tracking, emergency alerts to 
+family or doctors, and smart wristband alerts 
+with vibration and LED for deaf or elderly users. The Unique IoT Medicine Box with Smart 
+Wristband offers a complete solution for safe, 
+timely, and accurate medication intake. This 
+system includes smart locking compartments that 
+open only the correct medicine slot at the right 
+time, along with  AI-driven pill verification using 
+QR code scanning. The 
+smart wristband gives vibra tion and LED alerts 
+that are designed for elderly users with hearing 
+or visual impairments, which helps improve user 
+compliance. Introduction - Medication adherence is a major 
+issue in healthcare, especially for elderly 
+patients, those with chronic illnesse s, and 
+individuals with disabilities. This system shares medication 
+schedules, patient information, an d alerts with 
+cloud -based applications that caregivers and 
+medical professionals can access. Wearable devices 
+such as sm art wristbands provide multi -sensory 
+alerts for patients with hearing or vision 
+impairments, improving accessibility and 
+responsiveness. This project aims to develop a smart medicine 
+box paired with a smart wristband, using AI -
+based pill verification to boost accuracy and 
+safety. Weight sensors in the compartments check 
+if a pill has been taken, making sure patients are 
+not just reminded but also actually taking their 
+medication. Acknowledging that older adults and differently -
+abled users may have issues like hearing or 
+visual impairments, a smart wristband works 
+with the medicine box’s alert system. The 
+wristband offers discreet vibration alerts and 
+visual LED signals alongsi de auditory 
+reminders, creating multi -sensory cues tailored 
+to individual needs. The entire system connects 
+to cloud services for real -time updates on 
+medication schedules, adherence logs, and refill 
+alerts. Future updates may include 
+biometric authentication for secure access, 
+integration with electronic health record (EHR) 
+systems, and predictive analytics to spot patterns 
+of non -adherence and suggest tailored 
+intervent ions. The propos ed IoT -based smart 
+medicine box along with the smart wristband 
+ensures correct medication intake through locked 
+compartments and AI -based pill verification. 1: Block Diagram of the IoT Smart Medicine Box System with 
+Hardware Components and Cloud Integration  
+Medicine Box:  This is the primary hardware 
+device housing multiple locking compartments, 
+each designated for a specific medication dose. AI QR Pill Verification Camera:  Inside  the 
+medicine box, the mini camera scans QR codes 
+on medicine packets for AI -based verification to 
+ensure the correct pill is dispensed, adding a 
+layer of safety against medication errors. RGB LEDs and OLED Display:  Visual 
+indicators provide status alerts to the user, such 
+as medication time or errors, displayed 
+conveniently on the box itself. Smart Wris tband:  Connected via Bluetooth 
+Low Energy (BLE) to the medicine box, the 
+wristband delivers tactile vibration alerts and 
+LED signals, aimed especially at elderly or 
+differently -abled users who may not respond 
+well to audio alerts. Cloud Server:  The medicin e box connects to the 
+cloud via Wi -Fi, where medication schedules, 
+logs, pill expiry, and refill tracking data are securely stored and processed . Visual alerts are provided through RGB LEDs 
+inside the box, along with an OLED display for 
+conveying medicine status and inform ation. Additionally, a smart wristband that includes 
+ESP32 BLE is provided to deliver vibration and 
+LED alerts directly to the patient. An emergency alert system 
+automatically notifies caregivers or medical 
+professi onals in case of missed doses, while a 
+dashboard application offers a comprehensive 
+view of medication adherence history and health 
+trends. Estimated Cost -   The estimated total cost for 
+the IoT Smart Medicine Box project is roughly 
+between ₹4,500 and ₹7,200. These 
+are the ESP32 microcontroller (₹500 -₹800), 
+servo m otors (₹400 -₹600), a mini camera for pill 
+verification (₹800 -₹1500), IR weight sensors 
+(₹200 -₹400), RGB LEDs (₹300 -₹500), an OLED 
+display (₹400 -₹600), a Li -ion battery for backup 
+power (₹300 -₹500), a custom medicine box 
+casing (₹400 -₹600), and the smart wr istband 
+with an ESP32 BLE module for vibration and 
+LED alerts (₹600 -₹1200). The total estimated cost for 
+the IoT Smart Medicine Box project is 
+approximately between ₹4,500 and ₹7,200. Conclusion - In conclu sion, the Unique IoT 
+Smart Medicine Box with Smart Wristband 
+presents an innovative and practical solution to 
+the widespread problem of medication 
+mismanagement among elderly and differently -
+abled patients. By integrating secure, smart 
+locking compartments  with AI -based pill 
+verification, multi -sensory alert systems, and 
+real-time remote monitoring, the system not only 
+ensures timely and accurate medication intake 
+but also enhances patient safety and 
+independence. "IoT -
+Based Healthcare -Monitoring System towards 
+Improved Medication Adherence," Frontiers in 
+Digital Health, 2022 .
