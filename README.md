@@ -39,9 +39,7 @@ Developed in 36 hours for a hackathon, this project empowers people with disabil
 - *Upload PDF*  
 - *View summary as bullet points*  
 - *Listen to or download the generated audio*  
-- *See a gallery/history of all your summaries and audio files*  
-
-> *(Add demo images/gifs here in your actual repo for best results!)*
+- *See a gallery/history of all your summaries and audio files*
 
 ---
 
